@@ -4,3 +4,4 @@ git has a mutale index called stage.
 git tracks changes.
 creating a new branch is quick.
 Such as dev.
+creating a new  branch is quick simple.

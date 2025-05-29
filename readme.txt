@@ -7,3 +7,4 @@ creating a new branch is quick.
 Such as deV.
 creating a new  branch is quick and simple.
 creating a new branch is quickly,but not easy for beginner.
+新添加一些信息

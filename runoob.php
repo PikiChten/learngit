@@ -1,5 +1,6 @@
 <?php
-echo 1;
+<<<<<<< HEAD
+echo "dada"
 ?>
 $ git diff
 diff --git a/runoob.php b/runoob.php
@@ -10,3 +11,7 @@ index e69de29..ac60739 100644
 +<?php
 +echo 1;
 +?>
+<?
+echo 'runoob';
+?>
+
